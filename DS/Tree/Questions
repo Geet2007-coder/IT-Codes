@@ -1,0 +1,27 @@
+1. Write C program to implement Binary tree  with following functions
+
+Create binary tree with given data
+
+Traverse the tree in  pre order ,post order and inorder recursive
+
+
+
+2. Write c program to implement BST with following functions
+
+Addnode in BST
+
+Search target
+
+Find min and Max value in tree
+
+3.Write C program to implement non recursive preorder traversal
+
+4.Write C program to implement non recursive post order traversal
+
+5.Write C program to implement non recursive Inorder traversal
+
+6\. Write C program to implement Heap tree 
+
+   Write function to build heap
+
+    Write functions to maintain heap by Re-heapUp and ReheapDown function using array
